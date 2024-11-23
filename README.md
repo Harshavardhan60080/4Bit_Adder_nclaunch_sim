@@ -1,5 +1,3 @@
-NAME : Harshavardhan B
-REG NO : 212222060080
 
 # EXP1: 4 Bit Adder functionality verification
 
